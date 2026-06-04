@@ -45,7 +45,7 @@ export const personalInfo = {
     linkedin: "https://www.linkedin.com/in/sinan-kasikci-b784752b4/",
     github: "https://github.com/pythonicoder",
     instagram: "https://instagram.com/sinan_kasikci",
-    cv: "/files/Sinan_Kasikci_CV.pdf"
+    cv: "/files/Sinan_Kasikci_CV_new.pdf"
   }
 };
 
