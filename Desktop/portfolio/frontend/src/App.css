@@ -1,0 +1,19 @@
+/* Minimal app-level styles. Global theme lives in index.css */
+.App {
+  min-height: 100vh;
+  background: #0a0a0a;
+  color: #f5f5f5;
+  position: relative;
+}
+
+.section-padding {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+}
+
+@media (max-width: 768px) {
+  .section-padding {
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+  }
+}
